@@ -1,4 +1,4 @@
-# 🚗 Rent Rush — Vehicle Rental Management System
+#  Rent Rush — Vehicle Rental Management System
 
 **Your Ride, Your Way!**
 
@@ -6,22 +6,22 @@ Rent Rush is a Vehicle Rental Management System designed to simplify vehicle ren
 
 This project is developed as an academic project to demonstrate database management, application development, and practical implementation of vehicle rental operations.
 
-## 📌 Project Overview
+##  Project Overview
 
 Rent Rush provides a structured way to manage vehicles and rental activities through a centralized system. It focuses on maintaining vehicle details, managing customer records, and handling rental transactions efficiently.
 
-## ✨ Features
+##  Features
 
-- 🚘 **Vehicle Management** — Maintain vehicle information and rental details.
-- 👥 **Customer Management** — Store and manage customer records.
-- 📅 **Rental Management** — Maintain rental and booking records.
-- 🔍 **Vehicle Availability** — Track vehicle availability for rentals.
-- 💰 **Rental Details** — Manage rental rates and related information.
-- 🗄️ **Database Management** — Organize and maintain project data.
+-  **Vehicle Management** — Maintain vehicle information and rental details.
+-  **Customer Management** — Store and manage customer records.
+-  **Rental Management** — Maintain rental and booking records.
+-  **Vehicle Availability** — Track vehicle availability for rentals.
+-  **Rental Details** — Manage rental rates and related information.
+-  **Database Management** — Organize and maintain project data.
 
 *Note: Features may vary depending on the implemented functionality.*
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 Update this section to match the technologies used in your implementation.
 
@@ -29,7 +29,7 @@ Update this section to match the technologies used in your implementation.
 - **Database Language:** SQL and PL/SQL
 - **Application:** Vehicle Rental Management System
 
-## ⚙️ Project Setup
+##  Project Setup
 
 1. Clone this repository:
 
@@ -46,7 +46,7 @@ Update this section to match the technologies used in your implementation.
 5. Run the project using the environment configured for your implementation.
 
    
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Understand relational database design and implementation.
 - Apply SQL and PL/SQL concepts to a real-world scenario.
@@ -54,7 +54,7 @@ Update this section to match the technologies used in your implementation.
 - Improve vehicle rental and record management.
 - Practice building and documenting a database-driven project.
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Develop a web-based user interface.
 - Add customer registration and authentication.
@@ -63,16 +63,10 @@ Update this section to match the technologies used in your implementation.
 - Generate rental reports and analytics.
 - Improve vehicle search and filtering.
 
-## 🎓 Academic Project
+##  Academic Project
 
 **Project Name:** Rent Rush  
 **Project Type:** Vehicle Rental Management System  
 **Domain:** Database Management Systems
 
-## 📄 License
-
 This project is developed for educational purposes. Add a suitable open-source license if you intend to distribute or reuse the code publicly.
-
----
-
-**Rent Rush — Your Journey Starts Here! 🛣️**
